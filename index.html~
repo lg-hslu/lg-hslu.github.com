@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+     
+        
+        <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+     
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Lu<span class="x">x</span>eria</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#">Foo</a></li>
+                        <li><a href="#">Bar</a></li>
+                        <li><a href="#">Kontakt</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                    <header>
+                        <h1>Was ist LuXeria?</h1>
+                        <p>LuXeria ist ein Verein im Raum Luzern, welcher zum
+                           Ziel hat, quelloffene Systeme und Applikationen zu 
+                           fördern.
+                           Der Verein wurde gegründet um die Entschlossenheit 
+                           gegenüber FreeSoftware und OpenSource zu
+                           untersterichen. So wollte man verhindern als 
+                           einfache UserGroup von Linux Anwendern und
+                           Programmierern wahrgenommen zu werden. </p>
+                        <h2>Motto</h2>
+                        <p>Das Motto des Vereins lautet OpenSource – Open Mind.
+                           Die Mitglieder von LuXeria vertreten die Meinung, 
+                           dass FreeSoftware bzw. OpenSource wichtig ist und 
+                           der Austausch unter den Usern im Zentrum stehen 
+                           soll.</p>
+                        <h2>Mitglieder</h2>
+                        <p>Die Mitglieder des LuXeria kommen aus allen 
+                           Schichten der Gesellschaft. Vom jungen Lehrling, 
+                           über den Quereinsteiger bis zum alten Hasen der IT 
+                           ist so ziemlich alles vertreten. Die Meisten der 
+                           Mitglieder sind jedoch Studenten der Informatik
+                           im Raum Zentralschweiz (Hochschule Luzern, 
+                           Hochschule Rapperswil, Eidgenössische Technische
+                           Hochschule Zürich). Aktuell ist die LuXeria mit 15
+                           Mitglieder vertreten. Zentraler Bestandteil und 
+                           gemeinsamer Nenner der meisten Mitglieder ist Linux.
+                           Besondere Programme oder Programmierspachen sind 
+                           sehr individuell vertreten.</p>
+                        <h2>Treffen</h2>
+                        <p>Jeweils am Mittwochabend treffen sich die 
+                           Mitglieder von LuXeria im Vereinslokal und 
+                           geniessen dort ein gemeinsames Abendessen. An 
+                           diesen Treffen findet der primäre Austausch statt.
+                           Meist erfolgt dies in offenen Diskussionen oder
+                           kleineren Arbeitsgruppen. In unregelmässigen
+                           Intervallen finden spontane oder angekündigte
+                           Präsentationen, Vorträge und Demos statt.</p>
+                        <h2>Events</h2>
+                        <p>LuXeria versteht sich nicht nur als ein
+                           Zweckorientierter Verein sondern auch als soziale
+                           Gruppe. So finden ab und zu auch vom Verein 
+                           unabhängige Treffen und Events statt. Dies können
+                           persönlicher Feiern sein oder einfach gemeinsame
+                           Ausflüge wie den 29C3.</p>
+                        <h1>Angebote</h1>
+                        <p>LuXeria bietet seinen Mitgliedern und Besuchern 
+                           viele Möglichkeiten sich aktiv im Bereich IT,
+                           Programmierung und Technik im Allgemeinen zu 
+                           bilden. Dabei wird keine Möglichkeit ausgelassen
+                           auch untereinander zu Kommunizieren, Fragen zu 
+                           stellen und Antworten zu bekommen.</p>
+                        <h2>Bibliothek</h2>
+                        <p>LuXeria verfügt über eine Literaturammlung die sich
+                           dank grosszügiger Spenden sehr ausgeweitet hat.
+                           Der Grossteil der Literatur wird durch Bücher
+                           und Magazinen gebildet. Kernthemen sind 
+                           hierbei typisch im Bereich ber Programmierung 
+                           und Systeme. Weiter gibt es auch Literatur zu
+                           Themen aus der Subkultur der Nerds & Geeks
+                           als auch zeitlose Klassiker des Mainstreams.</p>
+                        <h2>Chat</h2>
+                        <p>LuXeria betreibt einen IRC Channel auf freenode.
+                           Dieser bietet den Mitgliedern und auch 
+                           Interessierten direkten Zugang und
+                           Austauschmöglihckeiten. Siehe 
+                           <b>freenode - #luxeria</b></p>
+                        <h2>Infrastruktur</h2>
+                        <p>LuXeria nutzt die Räumlichkeiten des VFI 
+                        (Verein zur Förderung der ICT-Berufsbildung) und hat
+                        somit Zugang zu einer sehr guten Infrastruktur wie 
+                        etwa modernen Schulungsräumen oder Racks.</p>
+                        <h2>Labor</h2>
+                        <p>LuXeria betreibt ein relativ kleines aber gut
+                        ausgerüstetes Elektronik Labor. Zu dessen 
+                        Grundausrüstung gehören Lötstationen, Oszilloskope,
+                        Logik-Analyzer, Linearnetzteile und eine nette
+                        Komponentensammlung.</p>
+                    <h1>Mitgliedschaft</h1>
+                    <p>LuXeria hat keine speziellen Aufnahmebedingungen oder
+                       Einschränkungen wie Alter oder Fachbereich. <b>Jeder</b>
+                       der sich mit dem Verein identifizieren kann ist herzlich
+                       willkommen!
+                       Der Verein unterscheidet seine Mitglieder in Aktiv-,
+                       Passiv-, Ehrenmitglieder und Gönner. 
+                       Eine Mitgliedschaft wird formell durch den jährlichen 
+                       Mitgliederbeitrag bestätigt.</p>
+                    <h1>Finanzen</h1>
+                    <p>Der Verein hat nebst den Mitgliederbeiträgen kein
+                       regelmässiges Einkommen und besitzt auch keine 
+                       Finanzstragtegie. Jedoch erhält der Verein Zuwendungen
+                       von Unternehmen oder Privaten in Form von Spenden.
+                       Diese werden meist in Form von IT-Material, Literaur
+                       oder Einladungen zu Messen und Vorträgen übergeben. </p>
+                    <h1>Lage</h1>
+                    <p>LuXeria hat ein Vereinslokal innerhalb der VFI-Räume
+                       in Adligenswil. Dies befindet sich im Ortsbekannten 
+                       Gelände der Ringier Print. Besucher die mit dem ÖV 
+                       zu LuXeria gelangen möchten, nehmen die PostAuto Linie
+                       73 von Luzern oder Rotkreuz ausgehend und halten an
+                       der Haltestelle "Adligenswil Stuben". Diese befindet 
+                       dich direkt vor dem Haupteingang der Ringier Print.
+                       Besucher welche mit dem Auto anreisen haben
+                       Parkmöglichkeiten direkt vor dem Lokal (innerhalb
+                       des Ringier Print Areals).</p>
+                    <h1>Kontakt</h1>
+                       Der Verein ist gegen Aussen durch den Vorstand
+                       vertreten und der Vereinspräsident ist der erste
+                       Ansprechpartner für Fragen und Anregungen.
+                       <ul>
+                       <li>LuXeria</li>
+                       <li>Ervin Mazlagic, Vereinspräsident</li>
+                       <li>Ebikonerstrasse 75</li>
+                       <li>6043 Adligenswil</li>
+                       <li>+41/76-371-12-89</li>
+                       <li>nino.ninux@gmail.com</li>
+                       </ul>
+                    </header>
+                </article>
+
+                <aside>
+                    <h1>NEWS</h1>
+                    <h2>Vortrag zu LaTeX, Git & Github</h2>
+                    <p>Ein Vortrag zum Thema "Kollaborative Textverarbeitung
+                       mit TeX, Git und Github" ist in Arbeit. Hinweise und
+                       Anregungen werden gerne entgegengenommen. 
+                       Das Projekt läuft auf
+                       <a href="http://www.github.com/ninux/colwork">colwork</a>.
+                       </p>
+                    <h2>LuXeria @ Github</h2>
+                    <p>LuXeria hat seit dem 31. Januar 2012 einen 
+                       Organisatons-Account auf der SocialCoding
+                       Plattform Github. Anfragen zu Repos und Teams
+                       an <a href="mailto:nino.ninux@gmail.com">Ervin Mazlagic</a></p>
+                    <h2>LuXeria & LaTeX</h2>
+                    <p>Templates für Dokumentationen, Broschüren und Briefe
+                       stehen ab sofort in der ersten Fassung bereit auf Github.
+                       Zudem wurde eine erste Variante zur Seriebrieferstellung
+                       in Python geschrieben mit SQLite Anbindung. Das Repo heisst
+                       <a href="http://www.github.com/luxeria/luxtex">LuXTeX</a></p>.
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <h3>footer</h3>
+            </footer>
+        </div>
+
+        <script src="js/vendor/jquery-1.9.0.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
