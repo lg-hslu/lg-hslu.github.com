@@ -62,6 +62,14 @@ textarea {
    
 /* http://colorschemedesigner.com/#3A11ThWhWg0g0 */
 
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Yanone Kaffeesatz Regular'), local('YanoneKaffeesatz-Regular'), url(yanonekaffeesatz-700.woff) format('woff');
+}
+
+
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
 }
@@ -79,7 +87,12 @@ nav a {
 }
 
 .title {
-    font-size: 3em;
+    background: no-repeat url(../img/luxeria.png);
+    line-height: 70px;
+    min-height: 84px;
+    padding-left: 92px;
+    margin: 0.2em 0;
+    font-size: 3.5em;
 }
 
 .title .x {
@@ -118,6 +131,22 @@ nav a {
 
 .title {
     color: white;
+}
+
+aside h1 {
+    text-transform: capitalize;
+}
+
+aside a {
+    color: white;
+}
+
+a {
+    color: #1C344D;
+}
+
+article img, article iframe {
+    max-width: 100%;
 }
 
 /* ==============
@@ -204,9 +233,10 @@ nav a:hover {
 
     nav a {
         float: left;
-        width: 27%;
-        margin: 0 1.7%;
-        padding: 25px 2%;
+        /* width: 27%; */
+        width: 18%;
+        margin: 0 2%;
+        padding: 20px 2%;
         margin-bottom: 0;
     }
 
@@ -251,10 +281,17 @@ nav a:hover {
     .title {
         float: left;
     }
+    
+    .header-container header {
+        position: relative;
+    }
 
     nav {
-        float: right;
-        width: 38%;
+        /* width: 38%; */
+        width: 60%;
+        position: absolute;
+        bottom: 0;
+        right: 0;
     }
 
 /* ============
