@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+     
+        
+        <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+     
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Lu<span class="x">x</span>eria - Kontakt</h1>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="intern.html">Intern</a></li>
+                        <li><a href="kontakt.html">Kontakt</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+        
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                    <header>
+        
+                    <h1>Kontakt</h1></a>
+                    <p>Der Verein ist gegen Aussen durch den Vorstand
+                       vertreten und der Vereinspräsident ist der erste
+                       Ansprechpartner für Fragen und Anregungen.
+                       <ul>
+                       <div>Ervin Mazlagic, Vereinspräsident</div>
+                       <br/>
+                       <div>LuXeria</div>
+                       <div>Ebikonerstrasse 75</div>
+                       <div>6043 Adligenswil</div>
+                       <div>+41/76-371-12-89</div>
+                       <div>nino.ninux@gmail.com</div>
+                       </ul></p>
+                    <h1>Lage</h1>
+                    <p>LuXeria hat ein Vereinslokal innerhalb der VFI-Räume
+                       in Adligenswil. Dieses befindet sich im ortsbekannten 
+                       Gelände der Ringier Print. Besucher welche mit dem ÖV 
+                       zu LuXeria gelangen möchten, nehmen die PostAuto Linie
+                       73 von Luzern oder Rotkreuz ausgehend und halten an
+                       der Haltestelle "Adligenswil Stuben". Diese befindet 
+                       sich direkt vor dem Haupteingang der Ringier Print.
+                       Besucher welche mit dem Auto anreisen haben
+                       Parkmöglichkeiten direkt vor dem Lokal (innerhalb
+                       des Ringier Print Areals).</p>
+                       <iframe width="580" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.ch/maps/ms?msa=0&amp;msid=213706732334015523030.0004d4ffbb2019d27db5e&amp;ie=UTF8&amp;ll=47.07212,8.349595&amp;spn=0.001165,0.001914&amp;t=m&amp;output=embed"></iframe><br /><small><a href="https://maps.google.ch/maps/ms?msa=0&amp;msid=213706732334015523030.0004d4ffbb2019d27db5e&amp;ie=UTF8&amp;ll=47.07212,8.349595&amp;spn=0.001165,0.001914&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">LuXeria</a> auf Google Maps anzeigen</small>
+                       
+                    </header>
+                </article>
+            </div>
+        </div>
+                                   
+        
+        <script src="js/vendor/jquery-1.9.0.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
+    
