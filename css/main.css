@@ -256,8 +256,8 @@ nav a:hover {
         display: inline;
     }
 
-    .oldie nav a {
-        margin: 0 0.7%;
+    .lt-ie9 nav a {
+        margin: 0 1%;
     }
 }
 
