@@ -99,10 +99,6 @@ nav a {
     font-size: 1.4em;
 }
 
-.no-fontface nav a {
-    font-size: 1em;
-}
-
 .title {
     background: no-repeat url(../img/luxeria.png);
     line-height: 70px;
@@ -217,6 +213,11 @@ nav a:hover {
     ALL: IE Fixes
    =============== */
 
+.no-fontface nav a {
+    font-size: 1em;
+}
+
+
 .ie7 .title {
     padding-top: 20px;
 }
@@ -259,6 +260,10 @@ nav a:hover {
 
     .lt-ie9 nav a {
         margin: 0 1%;
+    }
+
+    .lt-ie7 nav a {
+        width: 14%;
     }
 }
 
