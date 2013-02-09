@@ -99,6 +99,10 @@ nav a {
     font-size: 1.4em;
 }
 
+.no-fontface nav a {
+    font-size: 1em;
+}
+
 .title {
     background: no-repeat url(../img/luxeria.png);
     line-height: 70px;
@@ -216,23 +220,6 @@ nav a:hover {
 .ie7 .title {
     padding-top: 20px;
 }
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* ==========================================================================
@@ -409,6 +396,15 @@ nav a:hover {
         text-shadow: none !important;
     }
 
+    .title {
+        background: none;
+        padding: 0;
+    }
+
+    nav {
+        display: none;
+    }
+
     a,
     a:visited {
         text-decoration: underline;
@@ -434,7 +430,7 @@ nav a:hover {
 
     pre,
     blockquote {
-        border: 1px solid #999;
+        border: none;
         page-break-inside: avoid;
     }
 
