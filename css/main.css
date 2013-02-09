@@ -16,12 +16,12 @@ body {
 }
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #B7C8DA;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #B7C8DA;
     text-shadow: none;
 }
 
@@ -58,24 +58,37 @@ textarea {
 
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
+   LuXeria Modifications: Sebastian Wicki
    ========================================================================== */
    
 /* http://colorschemedesigner.com/#3A11ThWhWg0g0 */
 
 @font-face {
-  font-family: 'Yanone Kaffeesatz';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Yanone Kaffeesatz Regular'), local('YanoneKaffeesatz-Regular'), url(yanonekaffeesatz-700.woff) format('woff');
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Yanone Kaffeesatz Regular'), local('YanoneKaffeesatz-Regular'), url(yanonekaffeesatz-400.woff) format('woff');
 }
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz Title';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Yanone Kaffeesatz Bold'), local('YanoneKaffeesatz-Bold'), url(yanonekaffeesatz-700.woff) format('woff');
+}
+
 
 
 body {
-    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    font: 16px/26px Helvetica, Helvetica Neue, Arial, Liberation Sans, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6, nav a {
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+h1 {
+    font-family: Yanone Kaffeesatz Title, sans-serif;
+}
+
+h2, h3, h4, h5, h6, nav a {
+    font-family: Yanone Kaffeesatz, sans-serif;
 }
 
 h1 {
@@ -83,7 +96,7 @@ h1 {
 }
 
 nav a {
-    font-size: 1.5em;
+    font-size: 1.4em;
 }
 
 .title {
@@ -97,6 +110,7 @@ nav a {
 
 .title .x {
     font-size: 1.2em;
+
 }
 
 .wrapper {
