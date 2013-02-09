@@ -95,7 +95,7 @@ h1 {
     font-size: 2.2em;
 }
 
-nav a {
+.fontface nav a {
     font-size: 1.4em;
 }
 
@@ -212,11 +212,6 @@ nav a:hover {
 /* ===============
     ALL: IE Fixes
    =============== */
-
-.no-fontface nav a {
-    font-size: 1em;
-}
-
 
 .ie7 .title {
     padding-top: 20px;
