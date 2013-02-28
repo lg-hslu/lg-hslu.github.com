@@ -103,7 +103,7 @@ h1 {
     background: no-repeat <!--url(../img/luxeria.png)--> ;
     line-height: 70px;
     min-height: 84px;
-    padding-left: 92px;
+    <!--padding-left: 92px;-->
     margin: 0.2em 0;
     font-size: 3.5em;
 }
