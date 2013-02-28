@@ -100,7 +100,7 @@ h1 {
 }
 
 .title {
-    background: no-repeat url(../img/luxeria.png);
+    background: no-repeat <!--url(../img/luxeria.png)--> ;
     line-height: 70px;
     min-height: 84px;
     padding-left: 92px;
