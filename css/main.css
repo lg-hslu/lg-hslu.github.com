@@ -16,12 +16,12 @@ body {
 }
 
 ::-moz-selection {
-    background: #B7C8DA;
+    background: #B7DAC8;
     text-shadow: none;
 }
 
 ::selection {
-    background: #B7C8DA;
+    background: #B7DAC8;
     text-shadow: none;
 }
 
@@ -100,10 +100,10 @@ h1 {
 }
 
 .title {
-    background: no-repeat <!--url(../img/luxeria.png)--> ;
+    background: no-repeat;
     line-height: 70px;
     min-height: 84px;
-    <!--padding-left: 92px;-->
+    padding-left: 92px;
     margin: 0.2em 0;
     font-size: 3.5em;
 }
@@ -120,18 +120,18 @@ h1 {
 
    
 .header-container {
-    border-bottom: 10px solid #1C344D;
+    border-bottom: 10px solid #1C4D34;
 }
 
 .footer-container,
 .main aside {
-    border-top: 10px solid #1C344D;
+    border-top: 10px solid #1C4D34;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #496785;
+    background: #498567;
 }
 
 .main-container {
@@ -140,7 +140,7 @@ h1 {
 
 nav a {
     color: white;
-    background: #1C344D;
+    background: #1C4D34;
 }
 
 .title {
@@ -156,7 +156,7 @@ aside a {
 }
 
 a {
-    color: #2D445D;
+    color: #2D5D44;
 }
 
 article img, article iframe {
